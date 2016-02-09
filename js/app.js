@@ -1,7 +1,4 @@
-var app = angular.module('myApp', []);
+var app = angular.module('myApp', ['players', 'tabs']);
 
 app.controller('BaseController', function() {
-
-    this.message = "Ready";
-
 });
