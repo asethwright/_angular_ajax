@@ -1,5 +1,5 @@
-# Angular JS Starter File
+# Angular JS AJAX Request
 
-This is a very basic starter setup for an Angular.js 1.4.8 app.
+This repository shows a basic AJAX request through Angular.
 
 You can clone this repository and use it as a starting point for an exercise or project.
